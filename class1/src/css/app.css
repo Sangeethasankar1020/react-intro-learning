@@ -1,0 +1,27 @@
+.banner{
+    color: green;
+  }
+  .slogon{
+    color: aquamarine;
+  }
+  .code{
+    color: blueviolet;
+  }
+
+
+  .student table{
+
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  .student table td,
+  .student table th{
+    text-align: left;
+    border:1px solid #ccc;
+  }
+  
+  .student table th{
+    width: 100px;
+  }
